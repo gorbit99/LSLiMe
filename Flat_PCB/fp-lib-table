@@ -1,0 +1,12 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "USB-C-Power-tester")(type "KiCad")(uri "${KIPRJMOD}/custom-footprints/USB-C-Power-tester.pretty")(options "")(descr ""))
+  (lib (name "SOP_Custom")(type "KiCad")(uri "${KIPRJMOD}/custom-footprints/SOP_Custom.pretty")(options "")(descr ""))
+  (lib (name "SON_Custom")(type "KiCad")(uri "${KIPRJMOD}/custom-footprints/SON_Custom.pretty")(options "")(descr ""))
+  (lib (name "Linear_Regulator_Custom")(type "KiCad")(uri "${KIPRJMOD}/custom-footprints/Linear_Regulator_Custom.pretty")(options "")(descr ""))
+  (lib (name "LGA_Custom")(type "KiCad")(uri "${KIPRJMOD}/custom-footprints/LGA_Custom.pretty")(options "")(descr ""))
+  (lib (name "ESP_Custom")(type "KiCad")(uri "${KIPRJMOD}/custom-footprints/ESP_Custom.pretty")(options "")(descr ""))
+  (lib (name "Button_Locking_Custom")(type "KiCad")(uri "${KIPRJMOD}/custom-footprints/Button_Locking_Custom.pretty")(options "")(descr ""))
+  (lib (name "JST_Custom")(type "KiCad")(uri "${KIPRJMOD}/custom-footprints/JST_Custom.pretty")(options "")(descr ""))
+  (lib (name "Switch_Custom")(type "KiCad")(uri "${KIPRJMOD}/custom-footprints/Switch_Custom.pretty")(options "")(descr ""))
+)
